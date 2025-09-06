@@ -17,10 +17,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔗 **[SwirlX](#)**: A cross-chain bridge for secure transfer of ERC-20 & ERC-721 assets between EVM chains.
-- 🤝 **[FreelancerFi](#)**: A decentralized freelancing platform ensuring trustless collaboration with smart contract escrows.
-- 💰 **[Finquity](#)**: A Finance SaaS dashboard for tracking and visualizing transactions with Plaid API integration.
-- 🌾 **[KrishiGranth](#)**: An agri-tech platform empowering farmers with market data and weather insights.
+- 🔗 **[SwirlX](https://github.com/UdayPandey01/SwirlX)**: A cross-chain bridge for secure transfer of ERC-20 & ERC-721 assets between EVM chains.  
+- 🤝 **[FreelancerFi](https://github.com/UdayPandey01/FreelancerFi)**: A decentralized freelancing platform ensuring trustless collaboration with smart contract escrows.  
+- 💰 **[Finquity](https://github.com/UdayPandey01/Finquity)**: A Finance SaaS dashboard for tracking and visualizing transactions with Plaid API integration.  
+- 🌾 **[KrishiGranth](https://github.com/UdayPandey01/krishigranth)**: An agri-tech platform empowering farmers with market data and weather insights.  
 
 ---
 
