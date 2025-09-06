@@ -7,67 +7,35 @@
 
 ---
 
-<p align="left">
-  - 🔭 I’m currently architecting and building **CodeArena**, a full-scale, real-time collaborative coding platform using a microservices architecture.
-</p>
-<p align="left">
-  - 🌱 I’m deeply focused on learning **System Design, DevOps with Kubernetes, and Event-Driven Architecture with Kafka**.
-</p>
-<p align="left">
-  - 💬 Ask me about **Next.js, NestJS, TypeScript, and Blockchain Development**.
-</p>
-<p align="left">
-  - 📫 How to reach me: **youremail@example.com**
-</p>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently architecting and building **CodeArena**, a real-time, collaborative coding platform using a microservices architecture.
+- 🌱 I’m deeply focused on learning advanced **System Design**, **DevOps with Kubernetes**, **Kafka**, and **Decentralized Finance (DeFi)**.
+- 💡 I'm passionate about building scalable, production-ready applications and exploring the future of the decentralized web.
+- 💬 Ask me about **Next.js**, **NestJS**, **TypeScript**, and **Blockchain**.
 
 ---
 
-### 🚀 My Current Tech Stack & Tools
+### 🚀 Featured Projects
+- 🔗 **[SwirlX](#)**: A cross-chain bridge for secure transfer of ERC-20 & ERC-721 assets between EVM chains.
+- 🤝 **[FreelancerFi](#)**: A decentralized freelancing platform ensuring trustless collaboration with smart contract escrows.
+- 💰 **[Finquity](#)**: A Finance SaaS dashboard for tracking and visualizing transactions with Plaid API integration.
+- 🌾 **[KrishiGranth](#)**: An agri-tech platform empowering farmers with market data and weather insights.
 
-<table>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Databases & DevOps</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=prisma,mongodb,postgresql,docker,kubernetes,kafka,git" /></td>
-  </tr>
-    <tr>
-    <td align="center"><strong>Blockchain & Other</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=solidity,cpp" /></td>
-  </tr>
-</table>
+---
+
+### 💻 My Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,redux,tailwind,prisma,mongodb,postgresql,docker,kubernetes,kafka,graphql,solidity,cpp,git" />
+</div>
 
 ---
 
 ### 📊 My GitHub Stats
-
-<table align="center" style="border: none;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayPandey01&theme=tokyonight&show_icons=true&hide_border=true&hide=python" height="160" alt="languages graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=UdayPandey01&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Projects & Startups
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🌾 **KrishiGranth** | Farmer crop selling platform with weather forecasts, crop insights, and government schemes. | `Next.js`, `TailwindCSS`, `Node.js`, `MongoDB` |
-| 💰 **Finquity** | Finance SaaS dashboard with charts, transactions, Plaid integration, and monetization features. | `Next.js`, `TypeScript`, `Plaid API`, `PostgreSQL`, `Prisma` |
-| ✍️ **Realm** | A full-featured blogging platform with categories, comments, and user engagement. | `React`, `Node.js`, `Express`, `MongoDB` |
-| 🌦️ **Weather App** | Real-time weather application with city search and dynamically changing icons. | `JavaScript`, `HTML`, `CSS`, `OpenWeatherMap API` |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayPandey01&theme=tokyonight&show_icons=true&hide_border=true&hide=python" height="140" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UdayPandey01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="140" alt="stats graph" />
+</div>
 
 ---
 
