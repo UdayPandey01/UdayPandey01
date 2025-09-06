@@ -26,7 +26,7 @@
 
 ### 💻 My Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,redux,tailwind,prisma,mongodb,postgresql,docker,kubernetes,kafka,graphql,solidity,cpp,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,redux,tailwind,prisma,mongodb,postgresql,docker,kubernetes,kafka,graphql,solidity,cpp,git" />
 </div>
 
 ---
