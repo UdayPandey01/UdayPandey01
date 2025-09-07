@@ -33,9 +33,8 @@
 ---
 
 ### 📊 My GitHub Stats
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayPandey01&theme=tokyonight&show_icons=true&hide_border=true&hide=python" height="140" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayPandey01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="140" alt="stats graph" />
 </div>
 
 ---
